@@ -28,6 +28,7 @@ A regression-based machine learning project that predicts individual medical ins
 🔗 Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 🔵 Advanced Projects
+
 5. Movie Recommendation System
 
 A collaborative filtering-based recommendation system that suggests movies based on user preferences and similarity between movies. It uses K-Nearest Neighbors (KNN) and cosine similarity to generate personalized recommendations.
